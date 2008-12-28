@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class $1 &lt; Ruleby::Rulebook
+  def rules
+    $0
+  end
+end
+</string>
+	<key>name</key>
+	<string>New Rulebook</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>Rulebook</string>
+	<key>uuid</key>
+	<string>B3F5E008-084C-4CCB-91AA-8097357E4DFC</string>
+</dict>
+</plist>

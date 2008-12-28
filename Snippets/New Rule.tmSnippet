@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rule ${1::RuleName}, [$3] do |v|
+  $0
+end</string>
+	<key>name</key>
+	<string>New Rule</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>rule</string>
+	<key>uuid</key>
+	<string>0C913510-8F71-4405-91B9-EEC6C9629CCF</string>
+</dict>
+</plist>
